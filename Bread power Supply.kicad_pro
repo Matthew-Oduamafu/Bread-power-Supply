@@ -549,7 +549,11 @@
       },
       {
         "netclass": "power_output",
-        "pattern": "/PWR_output"
+        "pattern": "/PWR_OUT_TOP"
+      },
+      {
+        "netclass": "power_output",
+        "pattern": "/PWR_OUT_BOT"
       }
     ]
   },
@@ -686,5 +690,7 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "project_name": "Breadboard Power Supply"
+  }
 }

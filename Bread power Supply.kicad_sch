@@ -5,7 +5,7 @@
 	(uuid "e7e1459a-e2c3-4b5d-8a82-60a3f6547d37")
 	(paper "A4")
 	(title_block
-		(title "Breadboard Power Supply")
+		(title "${project_name}")
 		(date "2025-12-19")
 		(rev "Version 1")
 		(company "Matthew")
